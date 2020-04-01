@@ -1,3 +1,22 @@
+## Key Points
+
+**npm install:**
+
+- "@reduxjs/toolkit"
+- "react-redux"
+- "@types/react-redux"
+
+**prettier setting in package.json:**
+
+```
+"prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": true,
+    "singleQuote": true
+  }
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
