@@ -1,5 +1,7 @@
 ## Key Points
 
+**npm eject first**
+
 **npm install:**
 
 - "@reduxjs/toolkit"
